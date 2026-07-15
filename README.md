@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋 I'm Jithu Kannan
+
+🎓 EEE Student  
+💻 AI | Software | IoT Enthusiast  
+🚀 Learning, Building, and Exploring Technology.
+
+> "Code. Create. Innovate."
 
 <!--
 **JITHUKANNAN-TJ/JITHUKANNAN-TJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
