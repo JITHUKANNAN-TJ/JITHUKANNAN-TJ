@@ -1,3 +1,8 @@
+<img width="2543" height="1359" alt="image" src="https://github.com/user-attachments/assets/371dc1e7-1132-476d-b576-0816dac9f2aa" />
+
+
+
+
 ## Hi 👋 I'm Jithu Kannan 
 
 🎓 EEE Student  
