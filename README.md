@@ -2,18 +2,47 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Jithu Kannan</h1>
+```text
+     ██╗██╗████████╗██╗  ██╗██╗   ██╗
+     ██║██║╚══██╔══╝██║  ██║██║   ██║
+     ██║██║   ██║   ███████║██║   ██║
+██   ██║██║   ██║   ██╔══██║██║   ██║
+╚█████╔╝██║   ██║   ██║  ██║╚██████╔╝
+ ╚════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineering+Student;AI+%7C+Computer+Vision+%7C+IoT+%7C+Drone+Technology;Always+Learning+Something+New...;Carpe+Diem+🚀" />
-</p>
+██╗  ██╗ █████╗ ███╗   ██╗███╗   ██╗ █████╗ ███╗   ██╗
+██║ ██╔╝██╔══██╗████╗  ██║████╗  ██║██╔══██╗████╗  ██║
+█████╔╝ ███████║██╔██╗ ██║██╔██╗ ██║███████║██╔██╗ ██║
+██╔═██╗ ██╔══██║██║╚██╗██║██║╚██╗██║██╔══██║██║╚██╗██║
+██║  ██╗██║  ██║██║ ╚████║██║ ╚████║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
 ## Hi 👋 I'm Jithu Kannan 
 
-🎓 EEE Student  
-💻 AI | Software | IoT Enthusiast  
-🚀 Learning, Building, and Exploring Technology.
+# 👋 Hi, I'm Jithu Kannan
 
-> "Code. Create. Innovate."
+I'm an **Electrical & Electronics Engineering (EEE) student** who believes that every project is an opportunity to learn something new.
+
+I enjoy exploring the intersection of **Artificial Intelligence, Computer Vision, Embedded Systems, IoT, and Full-Stack Development**. My goal isn't just to build projects, but to understand how things work from the ground up and continuously improve my skills.
+
+I'm always eager to explore new technologies, solve challenging problems, and transform ideas into practical solutions. Every project is another opportunity to learn, create, and grow as an engineer.
+
+### 🌱 Currently Learning
+
+* 🤖 Artificial Intelligence
+* 🛸 Drone Technologies
+* 💻 Full-Stack Development
+
+### 🚀 Goal
+
+To build intelligent systems that bridge **hardware, software, and AI** to solve real-world engineering problems.
+
+### ✨ Motto
+
+> **Carpe Diem**
+> *"Seize the day. Learn something new. Build something meaningful."* 🚀
+
 
 <!--
 **JITHUKANNAN-TJ/JITHUKANNAN-TJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
