@@ -1,4 +1,11 @@
-## Hi 👋 I'm Jithu Kannan
+## <h1 align="center">Hi there 👋</h1>
+     _ ___ _____ _   _ _   _ 
+    | |_ _|_   _| | | | | | |
+ _  | || |  | | | |_| | | | |
+| |_| || |  | | |  _  | |_| |
+ \___/|___| |_| |_| |_|\___/
+
+<h3 align="center">Electrical & Electronics Engineering Student | Software & Embedded Systems Builder</h3> Hi 👋 I'm Jithu Kannan
 
 🎓 EEE Student  
 💻 AI | Software | IoT Enthusiast  
